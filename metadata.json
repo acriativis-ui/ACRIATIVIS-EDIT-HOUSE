@@ -1,0 +1,8 @@
+{
+  "name": "Acriativis Edit House",
+  "description": "Plataforma de gestão premium para a produtora Acriativis Edit House, focada em workflow de edição, aprovação de clientes e inteligência de mercado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
